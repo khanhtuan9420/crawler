@@ -1,0 +1,702 @@
+[
+  {
+    "playerName": "Erling Haaland",
+    "nation": "Norway",
+    "age": "23",
+    "club": "Manchester City",
+    "marketValue": "€180.00m"
+  },
+  {
+    "playerName": "Bukayo Saka",
+    "nation": "England",
+    "age": "22",
+    "club": "Arsenal FC",
+    "marketValue": "€120.00m"
+  },
+  {
+    "playerName": "Phil Foden",
+    "nation": "England",
+    "age": "23",
+    "club": "Manchester City",
+    "marketValue": "€110.00m"
+  },
+  {
+    "playerName": "Declan Rice",
+    "nation": "England",
+    "age": "24",
+    "club": "Arsenal FC",
+    "marketValue": "€100.00m"
+  },
+  {
+    "playerName": "Rodri",
+    "nation": "Spain",
+    "age": "27",
+    "club": "Manchester City",
+    "marketValue": "€100.00m"
+  },
+  {
+    "playerName": "Martin Ødegaard",
+    "nation": "Norway",
+    "age": "24",
+    "club": "Arsenal FC",
+    "marketValue": "€90.00m"
+  },
+  {
+    "playerName": "Moisés Caicedo",
+    "nation": "Ecuador",
+    "age": "22",
+    "club": "Chelsea FC",
+    "marketValue": "€90.00m"
+  },
+  {
+    "playerName": "Bruno Guimarães",
+    "nation": "Brazil",
+    "age": "26",
+    "club": "Newcastle United",
+    "marketValue": "€85.00m"
+  },
+  {
+    "playerName": "Rúben Dias",
+    "nation": "Portugal",
+    "age": "26",
+    "club": "Manchester City",
+    "marketValue": "€80.00m"
+  },
+  {
+    "playerName": "Enzo Fernández",
+    "nation": "Argentina",
+    "age": "22",
+    "club": "Chelsea FC",
+    "marketValue": "€80.00m"
+  },
+  {
+    "playerName": "Christopher Nkunku",
+    "nation": "France",
+    "age": "26",
+    "club": "Chelsea FC",
+    "marketValue": "€80.00m"
+  },
+  {
+    "playerName": "Josko Gvardiol",
+    "nation": "Croatia",
+    "age": "21",
+    "club": "Manchester City",
+    "marketValue": "€80.00m"
+  },
+  {
+    "playerName": "Julián Álvarez",
+    "nation": "Argentina",
+    "age": "23",
+    "club": "Manchester City",
+    "marketValue": "€80.00m"
+  },
+  {
+    "playerName": "Gabriel Martinelli",
+    "nation": "Brazil",
+    "age": "22",
+    "club": "Arsenal FC",
+    "marketValue": "€80.00m"
+  },
+  {
+    "playerName": "Bernardo Silva",
+    "nation": "Portugal",
+    "age": "29",
+    "club": "Manchester City",
+    "marketValue": "€80.00m"
+  },
+  {
+    "playerName": "Luis Díaz",
+    "nation": "Colombia",
+    "age": "26",
+    "club": "Liverpool FC",
+    "marketValue": "€75.00m"
+  },
+  {
+    "playerName": "Gabriel Jesus",
+    "nation": "Brazil",
+    "age": "26",
+    "club": "Arsenal FC",
+    "marketValue": "€75.00m"
+  },
+  {
+    "playerName": "Jack Grealish",
+    "nation": "England",
+    "age": "28",
+    "club": "Manchester City",
+    "marketValue": "€75.00m"
+  },
+  {
+    "playerName": "Bruno Fernandes",
+    "nation": "Portugal",
+    "age": "29",
+    "club": "Manchester United",
+    "marketValue": "€75.00m"
+  },
+  {
+    "playerName": "Marcus Rashford",
+    "nation": "England",
+    "age": "26",
+    "club": "Manchester United",
+    "marketValue": "€75.00m"
+  },
+  {
+    "playerName": "William Saliba",
+    "nation": "France",
+    "age": "22",
+    "club": "Arsenal FC",
+    "marketValue": "€70.00m"
+  },
+  {
+    "playerName": "James Maddison",
+    "nation": "England",
+    "age": "27",
+    "club": "Tottenham Hotspur",
+    "marketValue": "€70.00m"
+  },
+  {
+    "playerName": "Dominik Szoboszlai",
+    "nation": "Hungary",
+    "age": "23",
+    "club": "Liverpool FC",
+    "marketValue": "€70.00m"
+  },
+  {
+    "playerName": "Kevin De Bruyne",
+    "nation": "Belgium",
+    "age": "32",
+    "club": "Manchester City",
+    "marketValue": "€70.00m"
+  },
+  {
+    "playerName": "Alexander Isak",
+    "nation": "Sweden",
+    "age": "24",
+    "club": "Newcastle United",
+    "marketValue": "€70.00m"
+  },
+  {
+    "playerName": "Mohamed Salah",
+    "nation": "Egypt",
+    "age": "31",
+    "club": "Liverpool FC",
+    "marketValue": "€65.00m"
+  },
+  {
+    "playerName": "Rasmus Højlund",
+    "nation": "Denmark",
+    "age": "20",
+    "club": "Manchester United",
+    "marketValue": "€65.00m"
+  },
+  {
+    "playerName": "Alexis Mac Allister",
+    "nation": "Argentina",
+    "age": "24",
+    "club": "Liverpool FC",
+    "marketValue": "€65.00m"
+  },
+  {
+    "playerName": "Darwin Núñez",
+    "nation": "Uruguay",
+    "age": "24",
+    "club": "Liverpool FC",
+    "marketValue": "€65.00m"
+  },
+  {
+    "playerName": "Evan Ferguson",
+    "nation": "Ireland",
+    "age": "19",
+    "club": "Brighton & Hove Albion",
+    "marketValue": "€65.00m"
+  },
+  {
+    "playerName": "Trent Alexander-Arnold",
+    "nation": "England",
+    "age": "25",
+    "club": "Liverpool FC",
+    "marketValue": "€65.00m"
+  },
+  {
+    "playerName": "Lucas Paquetá",
+    "nation": "Brazil",
+    "age": "26",
+    "club": "West Ham United",
+    "marketValue": "€65.00m"
+  },
+  {
+    "playerName": "Kai Havertz",
+    "nation": "Germany",
+    "age": "24",
+    "club": "Arsenal FC",
+    "marketValue": "€60.00m"
+  },
+  {
+    "playerName": "Sandro Tonali",
+    "nation": "Italy",
+    "age": "23",
+    "club": "Newcastle United",
+    "marketValue": "€60.00m"
+  },
+  {
+    "playerName": "Jérémy Doku",
+    "nation": "Belgium",
+    "age": "21",
+    "club": "Manchester City",
+    "marketValue": "€60.00m"
+  },
+  {
+    "playerName": "Mason Mount",
+    "nation": "England",
+    "age": "24",
+    "club": "Manchester United",
+    "marketValue": "€60.00m"
+  },
+  {
+    "playerName": "Cristian Romero",
+    "nation": "Argentina",
+    "age": "25",
+    "club": "Tottenham Hotspur",
+    "marketValue": "€60.00m"
+  },
+  {
+    "playerName": "João Palhinha",
+    "nation": "Portugal",
+    "age": "28",
+    "club": "Fulham FC",
+    "marketValue": "€55.00m"
+  },
+  {
+    "playerName": "Gabriel Magalhães",
+    "nation": "Brazil",
+    "age": "25",
+    "club": "Arsenal FC",
+    "marketValue": "€55.00m"
+  },
+  {
+    "playerName": "Reece James",
+    "nation": "England",
+    "age": "23",
+    "club": "Chelsea FC",
+    "marketValue": "€55.00m"
+  },
+  {
+    "playerName": "Douglas Luiz",
+    "nation": "Brazil",
+    "age": "25",
+    "club": "Aston Villa",
+    "marketValue": "€55.00m"
+  },
+  {
+    "playerName": "Cody Gakpo",
+    "nation": "Netherlands",
+    "age": "24",
+    "club": "Liverpool FC",
+    "marketValue": "€55.00m"
+  },
+  {
+    "playerName": "Matheus Nunes",
+    "nation": "Portugal",
+    "age": "25",
+    "club": "Manchester City",
+    "marketValue": "€55.00m"
+  },
+  {
+    "playerName": "Ben White",
+    "nation": "England",
+    "age": "26",
+    "club": "Arsenal FC",
+    "marketValue": "€55.00m"
+  },
+  {
+    "playerName": "Moussa Diaby",
+    "nation": "France",
+    "age": "24",
+    "club": "Aston Villa",
+    "marketValue": "€55.00m"
+  },
+  {
+    "playerName": "Ollie Watkins",
+    "nation": "England",
+    "age": "27",
+    "club": "Aston Villa",
+    "marketValue": "€55.00m"
+  },
+  {
+    "playerName": "Diogo Jota",
+    "nation": "Portugal",
+    "age": "26",
+    "club": "Liverpool FC",
+    "marketValue": "€50.00m"
+  },
+  {
+    "playerName": "Dejan Kulusevski",
+    "nation": "Sweden",
+    "age": "23",
+    "club": "Tottenham Hotspur",
+    "marketValue": "€50.00m"
+  },
+  {
+    "playerName": "Michael Olise",
+    "nation": "France",
+    "age": "21",
+    "club": "Crystal Palace",
+    "marketValue": "€50.00m"
+  },
+  {
+    "playerName": "Lisandro Martínez",
+    "nation": "Argentina",
+    "age": "25",
+    "club": "Manchester United",
+    "marketValue": "€50.00m"
+  },
+  {
+    "playerName": "Heung-min Son",
+    "nation": "Korea, South",
+    "age": "31",
+    "club": "Tottenham Hotspur",
+    "marketValue": "€50.00m"
+  },
+  {
+    "playerName": "Raheem Sterling",
+    "nation": "England",
+    "age": "28",
+    "club": "Chelsea FC",
+    "marketValue": "€50.00m"
+  },
+  {
+    "playerName": "Kaoru Mitoma",
+    "nation": "Japan",
+    "age": "26",
+    "club": "Brighton & Hove Albion",
+    "marketValue": "€50.00m"
+  },
+  {
+    "playerName": "Antony",
+    "nation": "Brazil",
+    "age": "23",
+    "club": "Manchester United",
+    "marketValue": "€50.00m"
+  },
+  {
+    "playerName": "Amadou Onana",
+    "nation": "Belgium",
+    "age": "22",
+    "club": "Everton FC",
+    "marketValue": "€50.00m"
+  },
+  {
+    "playerName": "Roméo Lavia",
+    "nation": "Belgium",
+    "age": "19",
+    "club": "Chelsea FC",
+    "marketValue": "€50.00m"
+  },
+  {
+    "playerName": "Brennan Johnson",
+    "nation": "Wales",
+    "age": "22",
+    "club": "Tottenham Hotspur",
+    "marketValue": "€48.00m"
+  },
+  {
+    "playerName": "Eberechi Eze",
+    "nation": "England",
+    "age": "25",
+    "club": "Crystal Palace",
+    "marketValue": "€48.00m"
+  },
+  {
+    "playerName": "Jarrod Bowen",
+    "nation": "England",
+    "age": "26",
+    "club": "West Ham United",
+    "marketValue": "€48.00m"
+  },
+  {
+    "playerName": "Sven Botman",
+    "nation": "Netherlands",
+    "age": "23",
+    "club": "Newcastle United",
+    "marketValue": "€45.00m"
+  },
+  {
+    "playerName": "Mykhaylo Mudryk",
+    "nation": "Ukraine",
+    "age": "22",
+    "club": "Chelsea FC",
+    "marketValue": "€45.00m"
+  },
+  {
+    "playerName": "Anthony Gordon",
+    "nation": "England",
+    "age": "22",
+    "club": "Newcastle United",
+    "marketValue": "€45.00m"
+  },
+  {
+    "playerName": "Pau Torres",
+    "nation": "Spain",
+    "age": "26",
+    "club": "Aston Villa",
+    "marketValue": "€45.00m"
+  },
+  {
+    "playerName": "Nathan Aké",
+    "nation": "Netherlands",
+    "age": "28",
+    "club": "Manchester City",
+    "marketValue": "€42.00m"
+  },
+  {
+    "playerName": "Luke Shaw",
+    "nation": "England",
+    "age": "28",
+    "club": "Manchester United",
+    "marketValue": "€42.00m"
+  },
+  {
+    "playerName": "Joelinton",
+    "nation": "Brazil",
+    "age": "27",
+    "club": "Newcastle United",
+    "marketValue": "€42.00m"
+  },
+  {
+    "playerName": "Jurrien Timber",
+    "nation": "Netherlands",
+    "age": "22",
+    "club": "Arsenal FC",
+    "marketValue": "€42.00m"
+  },
+  {
+    "playerName": "Jacob Ramsey",
+    "nation": "England",
+    "age": "22",
+    "club": "Aston Villa",
+    "marketValue": "€42.00m"
+  },
+  {
+    "playerName": "Levi Colwill",
+    "nation": "England",
+    "age": "20",
+    "club": "Chelsea FC",
+    "marketValue": "€42.00m"
+  },
+  {
+    "playerName": "Oleksandr Zinchenko",
+    "nation": "Ukraine",
+    "age": "26",
+    "club": "Arsenal FC",
+    "marketValue": "€42.00m"
+  },
+  {
+    "playerName": "Diogo Dalot",
+    "nation": "Portugal",
+    "age": "24",
+    "club": "Manchester United",
+    "marketValue": "€40.00m"
+  },
+  {
+    "playerName": "Micky van de Ven",
+    "nation": "Netherlands",
+    "age": "22",
+    "club": "Tottenham Hotspur",
+    "marketValue": "€40.00m"
+  },
+  {
+    "playerName": "Casemiro",
+    "nation": "Brazil",
+    "age": "31",
+    "club": "Manchester United",
+    "marketValue": "€40.00m"
+  },
+  {
+    "playerName": "Mohammed Kudus",
+    "nation": "Ghana",
+    "age": "23",
+    "club": "West Ham United",
+    "marketValue": "€40.00m"
+  },
+  {
+    "playerName": "Richarlison",
+    "nation": "Brazil",
+    "age": "26",
+    "club": "Tottenham Hotspur",
+    "marketValue": "€40.00m"
+  },
+  {
+    "playerName": "Wesley Fofana",
+    "nation": "France",
+    "age": "22",
+    "club": "Chelsea FC",
+    "marketValue": "€40.00m"
+  },
+  {
+    "playerName": "André Onana",
+    "nation": "Cameroon",
+    "age": "27",
+    "club": "Manchester United",
+    "marketValue": "€40.00m"
+  },
+  {
+    "playerName": "Axel Disasi",
+    "nation": "France",
+    "age": "25",
+    "club": "Chelsea FC",
+    "marketValue": "€40.00m"
+  },
+  {
+    "playerName": "Conor Gallagher",
+    "nation": "England",
+    "age": "23",
+    "club": "Chelsea FC",
+    "marketValue": "€40.00m"
+  },
+  {
+    "playerName": "Ederson",
+    "nation": "Brazil",
+    "age": "30",
+    "club": "Manchester City",
+    "marketValue": "€40.00m"
+  },
+  {
+    "playerName": "Pedro Porro",
+    "nation": "Spain",
+    "age": "24",
+    "club": "Tottenham Hotspur",
+    "marketValue": "€40.00m"
+  },
+  {
+    "playerName": "Rodrigo Bentancur",
+    "nation": "Uruguay",
+    "age": "26",
+    "club": "Tottenham Hotspur",
+    "marketValue": "€40.00m"
+  },
+  {
+    "playerName": "Benoît Badiashile",
+    "nation": "France",
+    "age": "22",
+    "club": "Chelsea FC",
+    "marketValue": "€40.00m"
+  },
+  {
+    "playerName": "Morgan Gibbs-White",
+    "nation": "England",
+    "age": "23",
+    "club": "Nottingham Forest",
+    "marketValue": "€40.00m"
+  },
+  {
+    "playerName": "Diogo Dalot",
+    "nation": "Portugal",
+    "age": "24",
+    "club": "Manchester United",
+    "marketValue": "€40.00m"
+  },
+  {
+    "playerName": "Micky van de Ven",
+    "nation": "Netherlands",
+    "age": "22",
+    "club": "Tottenham Hotspur",
+    "marketValue": "€40.00m"
+  },
+  {
+    "playerName": "Manuel Akanji",
+    "nation": "Switzerland",
+    "age": "28",
+    "club": "Manchester City",
+    "marketValue": "€38.00m"
+  },
+  {
+    "playerName": "Ibrahima Konaté",
+    "nation": "France",
+    "age": "24",
+    "club": "Liverpool FC",
+    "marketValue": "€38.00m"
+  },
+  {
+    "playerName": "Mateo Kovacic",
+    "nation": "Croatia",
+    "age": "29",
+    "club": "Manchester City",
+    "marketValue": "€38.00m"
+  },
+  {
+    "playerName": "Joe Willock",
+    "nation": "England",
+    "age": "24",
+    "club": "Newcastle United",
+    "marketValue": "€38.00m"
+  },
+  {
+    "playerName": "Destiny Udogie",
+    "nation": "Italy",
+    "age": "20",
+    "club": "Tottenham Hotspur",
+    "marketValue": "€38.00m"
+  },
+  {
+    "playerName": "James Ward-Prowse",
+    "nation": "England",
+    "age": "29",
+    "club": "West Ham United",
+    "marketValue": "€38.00m"
+  },
+  {
+    "playerName": "Bryan Mbeumo",
+    "nation": "Cameroon",
+    "age": "24",
+    "club": "Brentford FC",
+    "marketValue": "€35.00m"
+  },
+  {
+    "playerName": "Cheick Doucouré",
+    "nation": "Mali",
+    "age": "23",
+    "club": "Crystal Palace",
+    "marketValue": "€35.00m"
+  },
+  {
+    "playerName": "Nayef Aguerd",
+    "nation": "Morocco",
+    "age": "27",
+    "club": "West Ham United",
+    "marketValue": "€35.00m"
+  },
+  {
+    "playerName": "Marc Guéhi",
+    "nation": "England",
+    "age": "23",
+    "club": "Crystal Palace",
+    "marketValue": "€35.00m"
+  },
+  {
+    "playerName": "Pape Matar Sarr",
+    "nation": "Senegal",
+    "age": "21",
+    "club": "Tottenham Hotspur",
+    "marketValue": "€35.00m"
+  },
+  {
+    "playerName": "Edson Álvarez",
+    "nation": "Mexico",
+    "age": "26",
+    "club": "West Ham United",
+    "marketValue": "€35.00m"
+  },
+  {
+    "playerName": "Harvey Barnes",
+    "nation": "England",
+    "age": "25",
+    "club": "Newcastle United",
+    "marketValue": "€35.00m"
+  },
+  {
+    "playerName": "Leandro Trossard",
+    "nation": "Belgium",
+    "age": "28",
+    "club": "Arsenal FC",
+    "marketValue": "€35.00m"
+  }
+]
